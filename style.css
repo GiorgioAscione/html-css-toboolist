@@ -1,3 +1,7 @@
+main { background-size: auto; margin-left: 20%; margin-right: 20%;
+}
+footer { background-size: auto; margin-left: 20%; margin-right: 20%;
+}
 .numero1 { height: 70px; width: 70px; vertical-align: middle;
 }
 .numero2 {font-size: 35px; line-height: 70px; 
@@ -14,6 +18,7 @@
     padding: 10px 20px;
     border: solid 1px #0076a3;
     background: #0095cd;
+    margin-left: 55px;
 }
 #pulsante2 {-moz-border-radius: 8px;
     -webkit-border-radius: 8px;
@@ -33,5 +38,81 @@
 #spunta2 {border-style: solid ; color: red;
     border-radius: 50%; margin-right: 10px;
 }
+#pulsante3 {
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 25px;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    font: bold 12px Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding: 6px 20px;
+    border: solid 1px #0076a3;
+    background: #0095cd;
+}
+#pulsante4 {-moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 25px;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    font: bold 12px Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding: 6px 20px;
+    border: solid 1px purple;
+    background: purple;
+}
+#pulsante5 {-moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 25px;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    font: bold 12px Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding: 6px 20px;
+    border: solid 1px green;
+    background: green;
+}
+#pulsante6 {-moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 25px;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    font: bold 12px Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding: 6px 20px;
+    border: solid 1px orange;
+    background: orange;
+}
+#pulsante7 {-moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 25px;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    font: bold 12px Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding: 6px 20px;
+    border: solid 1px pink;
+    background: pink;
+}
+#pulsante8 {-moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 25px;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    font: bold 12px Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding: 6px 20px;
+    border: solid 1px greenyellow;
+    background: greenyellow;
+}
+
+
+
 
 
