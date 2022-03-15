@@ -28,10 +28,10 @@
     background: #FFFFFF ;
 }
 #spunta {border-style: solid ; color: chartreuse;
-    border-radius: 50%;
+    border-radius: 50%; margin-right: 10px;
 }
 #spunta2 {border-style: solid ; color: red;
-    border-radius: 50%;
+    border-radius: 50%; margin-right: 10px;
 }
 
 
