@@ -1,7 +1,5 @@
 main { background-size: auto; margin-left: 20%; margin-right: 20%;
 }
-footer { background-size: auto; margin-left: 20%; margin-right: 20%;
-}
 .numero1 { height: 70px; width: 70px; vertical-align: middle;
 }
 .numero2 {font-size: 35px; line-height: 70px; 
@@ -19,6 +17,7 @@ footer { background-size: auto; margin-left: 20%; margin-right: 20%;
     border: solid 1px #0076a3;
     background: #0095cd;
     margin-left: 55px;
+    margin-bottom: auto;
 }
 #pulsante2 {-moz-border-radius: 8px;
     -webkit-border-radius: 8px;
@@ -111,7 +110,12 @@ footer { background-size: auto; margin-left: 20%; margin-right: 20%;
     border: solid 1px greenyellow;
     background: greenyellow;
 }
-
+body {background-color:aliceblue;
+}
+header {background-color: white;
+}
+main {background-color: white;
+}
 
 
 
