@@ -1,8 +1,8 @@
-main { background-size: auto; margin-left: 20%; margin-right: 20%;
+main { background-size: auto; margin-left: 10%; margin-right: 10%;
 }
 .numero1 { height: 70px; width: 70px; vertical-align: middle;
 }
-.numero2 {font-size: 35px; line-height: 70px; 
+.numero2 {font-size: 40px; line-height: 70px; font-family: sans-serif;
 }
 #pulsante {
     -moz-border-radius: 8px;
